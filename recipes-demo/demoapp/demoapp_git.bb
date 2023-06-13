@@ -1,4 +1,4 @@
-SUMMARY = "Sample application service"
+SUMMARY = "Simple demo service"
 DESCRIPTION = "This is a simple demo recipe - used for research/testing only"
 HOMEPAGE = "https://github.com/lukaskaz/obmc-sample-app"
 LICENSE = "CLOSED"
