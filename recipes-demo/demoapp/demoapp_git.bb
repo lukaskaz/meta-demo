@@ -1,5 +1,5 @@
 SUMMARY = "Sample application service"
-DESCRIPTION = "This is a simple Hello World recipe - uses a local source file"
+DESCRIPTION = "This is a simple demo recipe - used for research/testing only"
 HOMEPAGE = "https://github.com/lukaskaz/obmc-sample-app"
 LICENSE = "CLOSED"
 
